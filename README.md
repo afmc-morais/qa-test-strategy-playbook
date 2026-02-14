@@ -1,5 +1,11 @@
 # Test Strategy & Quality Engineering Playbook
 
+![Quality Engineering](https://img.shields.io/badge/Focus-Quality%20Engineering-blue)
+![Risk Based Testing](https://img.shields.io/badge/Approach-Risk%20Based%20Testing-green)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Quality%20Gates-orange)
+![SDET Mindset](https://img.shields.io/badge/Mindset-SDET-red)
+
+
 A senior-level example of a practical, scalable, and risk-oriented QA strategy used in modern Agile and CI/CD environments.
 
 This repository demonstrates how quality can be embedded across the entire software lifecycle — not as a final validation phase, but as a continuous engineering discipline.
